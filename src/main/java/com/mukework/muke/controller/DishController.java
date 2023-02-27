@@ -65,4 +65,16 @@ public class DishController {
         dishService.saveWithFlavor(dishDto);
         return R.success("新增菜品成功");
     }
+    //修改菜品
+    @PutMapping
+    public  R<String> update(@RequestBody DishDto dishDto){
+        dishService.update(dishDto);
+        return R.success("修改菜品成功");
+    }
+    //获取菜品详情
+    @GetMapping("/{id}")
+    public R<DishDto> getDish(@PathVariable Long id){
+        DishDto byIdFlavor = dishService.getByIdFlavor(id);
+        return R.success(byIdFlavor);
+    }
 }
