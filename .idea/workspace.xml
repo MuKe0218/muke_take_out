@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3357c66f-d004-4e5e-8399-9db27f17f5d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mukework/muke/common/JacksonObjectMapper.java" afterDir="false" />
-    </list>
+    <list default="true" id="3357c66f-d004-4e5e-8399-9db27f17f5d4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,19 +56,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.MuKeApplication">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="upload.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/muke_take_out/backend/page/demo/upload.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -106,6 +91,8 @@
       <workItem from="1676724235329" duration="1474000" />
       <workItem from="1676725834864" duration="25086000" />
       <workItem from="1677043912015" duration="12475000" />
+      <workItem from="1678626576660" duration="154000" />
+      <workItem from="1678955649845" duration="2480000" />
     </task>
     <servers />
   </component>
